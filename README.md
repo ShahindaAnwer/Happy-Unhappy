@@ -19,8 +19,8 @@ Code is provided in the `Happy-Unhappy` notebook file. Also included, are the `t
 
 Basically, a smile detector!
 
-The train set has 600 examples.
-The test set has 150 examples.
+The train set has ***600*** examples.
+The test set has ***150*** examples.
 
 Source: This dataset is gathered from the Deep Learning Specialization - Convolutional Neural Network Course - Week 2 - Happy House Exercise.
 (kaggle kernels output wafadje/happy-house-smiling-faces-detector-using-cnn -p /path/to/dest)
