@@ -26,5 +26,5 @@ Source: This dataset is gathered from the Deep Learning Specialization - Convolu
 (kaggle kernels output wafadje/happy-house-smiling-faces-detector-using-cnn -p /path/to/dest)
 
 
-**Resuly**
+**Results**
 - `yes` or `no`: whether a person is smiling or not
