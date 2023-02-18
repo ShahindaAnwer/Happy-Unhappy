@@ -1,4 +1,4 @@
-# Happy_Unhappy Deep Learning Project
+# Happy-Unhappy Deep Learning Project
 
 ### Libraries
 
